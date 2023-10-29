@@ -3,3 +3,9 @@
 .button{
 	display:inline;
 }
+.div{
+	display:block;
+}
+.span{
+	display:inline;
+}
